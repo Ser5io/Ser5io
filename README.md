@@ -33,7 +33,7 @@
 ___
 
 ### About Me :
-- :smiley: My name is **Yousef Kilany** from Egypt :egypt: 
+- :smiley: My name is **Yousef Kilany** from **Egypt** :egypt: 
 - :school: 2nd year student at [**Computer Engineering**](https://www.coursera.org/articles/computer-engineering?msockid=2c98b1c4d619686a1d1aa59dd76e69f9) <!--link-->
 - :hammer_and_pick: Building projects using [**C++**](https://en.wikipedia.org/wiki/C++) and [**Git**](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) <!--link-->
 - :star: Up to learning [**CyberSecurity :technologist:**](https://www.ibm.com/topics/cybersecurity) and [**Game Dev :video_game:**](https://www.coursera.org/articles/game-developer?msockid=2c98b1c4d619686a1d1aa59dd76e69f9)  <!--link-->
